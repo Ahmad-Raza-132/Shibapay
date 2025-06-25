@@ -98,15 +98,19 @@
   color: #98E1F8;
 }
 
-.card{
+.cards{
   background: linear-gradient(180deg, rgba(14, 22, 45, 0.8) 0%, rgba(46, 72, 147, 0.8) 100%);
   padding: 20px;
   border-radius: 15px;
-  height: 55vh;
 }
 
 .fs-12{
   font-size: 12px;
+}
+
+.border-css{
+    border-right: 1px solid white;
+    border-bottom: none;
 }
 
 .video{
@@ -120,5 +124,10 @@
 
   .card{
     height: 250px;
+  }
+
+  .border-css{
+    border-bottom: 1px solid white;
+    border-right: none;
   }
 }
