@@ -113,3 +113,12 @@
   justify-self: center;
   border-radius: 25px;
 }
+@media screen and (max-width: 767px){
+  .sec-5-img{
+    width: 50px;
+  }
+
+  .card{
+    height: 250px;
+  }
+}
