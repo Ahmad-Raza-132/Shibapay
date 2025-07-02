@@ -155,3 +155,97 @@ body{
     padding-bottom: 15px;
     justify-self: center;
 }
+
+.m-h{
+    font-size: 48px;
+    line-height: 95%;
+    font-weight: 900 !important;
+}
+
+.token-card{
+    background: linear-gradient(180deg, rgba(14, 22, 45, 0.3) 0%, rgba(46, 72, 147, 0.3) 100%);
+    padding: 35px;
+    padding-top: 45px;
+    border-radius: 15px;
+    height: 350px;
+}
+
+.u-pay{
+    background-color: white;
+    border-radius: 10px;
+    height: 70px;
+    width: 100%;
+    padding: 10px 15px 10px 15px;
+}
+
+.pay-txt{
+    width: 100px;
+}
+
+.usd-txt{
+    width: 100px;
+    text-align: end;
+    margin-top: 10px;
+    height: 25px;
+    font-size: 12px;
+    padding-top: 4px;
+    border: 1px solid gray;
+    padding-right: 37px;
+    font-weight: 500 !important;
+    border-radius: 5px;
+    margin-right: 8px;
+}
+
+.shibtc-txt{
+    width: 100px;
+    text-align: end;
+    margin-top: 10px;
+    height: 25px;
+    font-size: 12px;
+    padding-top: 4px;
+    border: 1px solid gray;
+    padding-right: 12px;
+    font-weight: 500 !important;
+    border-radius: 5px;
+    margin-right: 8px;
+}
+
+.token-sec-2{
+    position: relative;
+}
+
+.tk-img{
+    position: absolute;
+}
+
+.blue-shadow{
+    position: relative;
+    width: 50%;
+    height: auto;
+    z-index: -1;
+    top: 0%;
+    filter: blur(10px);
+}
+
+.tk-sec-3{
+    background: linear-gradient(180deg, rgba(14, 22, 45, 0.3) 0%, rgba(46, 72, 147, 0.3) 100%);
+    width: 100%;
+    border-radius: 27px;
+    background-image: url(/Images/Ellipse\ 4.png);
+}
+
+.s-b{
+    font-size: 20px !important;
+}
+
+.s-16{
+    font-size: 16px !important;
+}
+
+.w800{
+    font-weight: 800 !important;
+}
+
+.border-bt{
+    border-bottom: 2px solid rgba(14, 22, 45, 1);
+}
