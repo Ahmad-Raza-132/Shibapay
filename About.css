@@ -3,3 +3,11 @@
     width: 100%;
     border-radius: 27px;
 }
+
+.pro-sec-2{
+    background: linear-gradient(180deg, rgba(14, 22, 45, 0.3) 0%, rgba(46, 72, 147, 0.3) 100%);
+    border-radius: 27px;
+    width: 100%;
+    background-image: url(/Images/Ellipse\ 4.svg);
+    background-size: cover;
+}
