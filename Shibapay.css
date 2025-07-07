@@ -246,3 +246,7 @@ body{
 .border-bt{
     border-bottom: 2px solid rgba(14, 22, 45, 1);
 }
+
+.semi-secs{
+    border-right: 2px solid rgba(14, 22, 45, 1);
+}
